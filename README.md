@@ -29,3 +29,4 @@ _Slides are above in the `slides` directory._
  - [Spreadsheet ➧ Repo](https://github.com/digidem/GAS-github-json) uploads spreadsheet to repsoitory as JSON.
  - [Google Forms](http://www.google.com/google-d-s/createforms.html) to collect responses and send to spreadsheet.
  - [Tabletop.js on NPM](https://www.npmjs.org/package/tabletop) to cache and serve from a server.
+ - [@ceejbot's talk](https://speakerdeck.com/ceejbot/writing-your-talk) on structuring a talk.
