@@ -9,7 +9,7 @@ _Slides are above in the `slides` directory._
 
 - **Sheetsee.js**
  - Repository [jlord/sheetsee.js](http://www.github.com/jlord/sheetsee.js)
- - [WWWeb Site](jlord.github.io/sheetsee.js)
+ - [WWWeb Site](http://jlord.github.io/sheetsee.js)
 - **Sheetsee Module Repositories**
  - [sheetsee](http://www.github.com/jlord/sheetsee) (builder)
  - [sheetsee-core](http://www.github.com/jlord/sheetsee) (data manipulation)
@@ -24,8 +24,8 @@ _Slides are above in the `slides` directory._
  - [Instagram](http://jlord.us/instagram)
 
 - **Other**
- - [Fork-n-go Post](jlord.us/fork-n-go) for more details on the idea.
- - [If This Than That](www.ifttt.com) for recipies for sending data to spreadsheets.
+ - [Fork-n-go Post](http://jlord.us/fork-n-go) for more details on the idea.
+ - [If This Than That](http://www.ifttt.com) for recipies for sending data to spreadsheets.
  - [Spreadsheet ➧ Repo](https://github.com/digidem/GAS-github-json) uploads spreadsheet to repsoitory as JSON.
  - [Google Forms](http://www.google.com/google-d-s/createforms.html) to collect responses and send to spreadsheet.
  - [Tabletop.js on NPM](https://www.npmjs.org/package/tabletop) to cache and serve from a server.
