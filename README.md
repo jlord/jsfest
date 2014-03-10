@@ -3,11 +3,11 @@
 
 ---
 
-_Slides are above._
+_Slides are above in the `slides` directory._
 
 ### Links to Resources:
 
-- **Sheetsee.js** 
+- **Sheetsee.js**
  - Repository [jlord/sheetsee.js](http://www.github.com/jlord/sheetsee.js)
  - [WWWeb Site](jlord.github.io/sheetsee.js)
 - **Sheetsee Module Repositories**
