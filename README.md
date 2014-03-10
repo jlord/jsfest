@@ -19,9 +19,9 @@ _Slides are above in the `slides` directory._
  - Also on [NPM](https://www.npmjs.org/~jlord)
 
 - **Examples**
- - [Hack-Spots](jlord.github.io/hack-spots)
- - [Pocket List](jlord.github.io/sheetsee-pocket)
- - [Instagram](jlord.us/instagram)
+ - [Hack-Spots](http://jlord.github.io/hack-spots)
+ - [Pocket List](http://jlord.github.io/sheetsee-pocket)
+ - [Instagram](http://jlord.us/instagram)
 
 - **Other**
  - [Fork-n-go Post](jlord.us/fork-n-go) for more details on the idea.
