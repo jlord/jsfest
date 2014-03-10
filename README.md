@@ -8,6 +8,7 @@ _Slides are above in the `slides` directory._
 ### Links to Resources:
 
 - **Sheetsee.js**
+ - [Sheetsee.js 3.0 Updates](http://jlord.us/sheetsee-3)
  - Repository [jlord/sheetsee.js](http://www.github.com/jlord/sheetsee.js)
  - [WWWeb Site](jlord.github.io/sheetsee.js)
 - **Sheetsee Module Repositories**
