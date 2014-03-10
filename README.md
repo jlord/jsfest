@@ -1,7 +1,7 @@
-# Little Data for the People
+# Scale Down, People Up
 ### A Sheetsee.js talk from the Scaling Up and Down session at JSFest 2014.
 
----
+![img](https://raw.githubusercontent.com/jlord/jsfest/master/slides/jsfest.001.png)
 
 _Slides are above in the `slides` directory._
 
